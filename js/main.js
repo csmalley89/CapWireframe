@@ -1,10 +1,4 @@
-// (function($){
-//   $(function(){
 
-//     $('.collapsible').collapsible();
-
-//   }); // end of document ready
-// })(jQuery); // end of jQuery name space
 
 let schoolList={
 Schools: [
@@ -28,6 +22,9 @@ Schools: [
     },
     {
       "School": "UMass Amherst"
+    },
+    {
+      "School": "St. Olaf"
     },
     {
       "School": "Indiana University"
