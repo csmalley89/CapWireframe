@@ -1,0 +1,17 @@
+body > div.row > div.col.s3 > ul.side-nav.fixed {
+  top: inherit;
+}
+
+body > div.row > div.col.s3 > ul > li > ul > li > a {
+  color: white;
+}
+
+body > div.row > div.col.s3 > ul > li > ul > li > div > ul > li > a {
+  color: white;
+}
+
+.dropDownDest {
+  color: white;
+  /*text-align: -webkit-match-parent;*/
+
+}
